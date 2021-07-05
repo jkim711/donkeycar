@@ -1,3 +1,15 @@
+# Setup on WSL (Windows Sub Layer)
+WSL CentOS 7 Download : https://github.com/yuk7/CentWSL/releases/tag/7.0.1905.1
+Run Centos.exe in Administrative mode to install
+Run Centos.exe to run the Centos in WSL
+
+# Selecting default WSL
+wsl --list
+wsl --set-default CentOS
+run wsl.exe 
+
+ 
+
 # donkeycar: a python self driving library
 
 [![Build Status](https://travis-ci.org/autorope/donkeycar.svg?branch=dev)](https://travis-ci.org/autorope/donkeycar)
