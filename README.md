@@ -1,3 +1,11 @@
+# Project Goal
+Usually a donkey would follow the lanes in the racing course.
+But for this case, the donkey car will follow a single designated person.
+
+
+
+
+
 # Setup on WSL (Windows Sub Layer)
 WSL CentOS 7 Download : https://github.com/yuk7/CentWSL/releases/tag/7.0.1905.1
 Run Centos.exe in Administrative mode to install
