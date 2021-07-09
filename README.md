@@ -2,8 +2,15 @@
 Usually a donkey would follow the lanes in the racing course.
 But for this case, the donkey car will follow a single designated person.
 
+# Technology methodology
+1. Ojbect tracking technology would be used to track the designated person
+2. The donkey car will drive toward that designated person and drive following that person.
 
-
+# Candidate techology
+1. For object tracking
+https://github.com/wmuron/motpy/blob/master/examples/2d_multi_object_tracking.py
+2. For driving input to donkey car
+(in progress)
 
 
 # Setup on WSL (Windows Sub Layer)
