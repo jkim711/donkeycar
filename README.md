@@ -12,16 +12,27 @@ https://github.com/wmuron/motpy/blob/master/examples/2d_multi_object_tracking.py
 2. For driving input to donkey car
 (in progress)
 
+# IDE setup 
+Install Visual code on Windows 
+
 
 # Setup on WSL (Windows Sub Layer)
 WSL CentOS 7 Download : https://github.com/yuk7/CentWSL/releases/tag/7.0.1905.1
 Run Centos.exe in Administrative mode to install
-Run Centos.exe to run the Centos in WSL
 
 # Selecting default WSL
 wsl --list
 wsl --set-default CentOS
-run wsl.exe 
+
+# Execute WSL
+Run Centos.exe to run the Centos in WSL
+
+# Tool setup
+yum install git
+yum install python
+
+
+
 
  
 
